@@ -46,7 +46,7 @@ Over time, the modernised FHIR standards will replace the existing MedCom standa
 The links to the webpage presentations of the standards can be found in the <a href="#Tab1"> Table 1</a>. On the webpages, you can find the links to the IG and other relevant information.
 
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0; width:auto;}
+.tg  {border-collapse:collapse;border-spacing:0; width:50%;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   overflow:hidden;padding:10px 5px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -56,7 +56,8 @@ The links to the webpage presentations of the standards can be found in the <a h
 .tg .tg-1ady{background-color:#9dbad7;border-color:#000000;color:#333333;text-align:left;vertical-align:top}
 .tg .tg-on52{border-color:#000000;color:#333333;text-align:left;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 100%; height:auto;" id="Tab1">
+<div style="overflow-x:auto;">
+<table class="tg" style="undefined;table-layout: fixed; width: 100%;" id="Tab1">
 <caption style="color:#2c415c;font-weight:bold"> Table 1: Overview of the modernised FHIR standards </caption>
 <colgroup>
 <col style="width: 138.88889px">
@@ -120,6 +121,7 @@ The links to the webpage presentations of the standards can be found in the <a h
   </tr>
 </tbody>
 </table>
+</div>
 <br><br>
 
 
